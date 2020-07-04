@@ -1,4 +1,4 @@
-package com.java_impove;
+package com.java_impove.multiThread;
 
 public class ThreadRun extends Thread {
     @Override
